@@ -1,0 +1,9 @@
+.side-shape {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(216, 92, 146, 0.3); /* لون وردي هادئ */
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+}
